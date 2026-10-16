@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="EduFix — your AI-powered study assistant.">
+  <title>EduFix — AI Study Assistant</title>
+</head>
+<body>
+  <header>
+    <h1>EduFix</h1>
+    <p>Your AI-powered study assistant.</p>
+  </header>
+
+  <main>
+    <h2>Learn smarter with EduFix</h2>
+    <p>Get help with your studies, understand difficult topics,
+      and organize your learning.</p>
+  </main>
+</body>
+</html>
